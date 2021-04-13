@@ -61,6 +61,7 @@
         <lombok.version>1.18.16</lombok.version>
         
         <sonar.projectKey>farisk263_cdle-traininglabs</sonar.projectKey>
+        <sonar.moduleKey>${artifactId}</sonar.moduleKey>
         <sonar.organization>farisk263</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
       
