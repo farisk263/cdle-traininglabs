@@ -156,6 +156,7 @@
             <version>${slf4j.version}</version>
         </dependency>
       
+      
         <!-- https://mvnrepository.com/artifact/org.openjfx/javafx-swing -->
         <dependency>
             <groupId>org.openjfx</groupId>
