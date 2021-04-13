@@ -14,6 +14,10 @@
     <a href="https://github.com/CertifaiAI/TrainingLabs/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/CertifaiAI/TrainingLabs.svg">
     </a>
+    <a href="https://sonarcloud.io/dashboard?id=farisk263_cdle-traininglabs">
+        <img src="https://sonarcloud.io/images/project_badges/sonarcloud-white.svg">
+    </a>
+    
 </p>
 
 Running examples strategically structured to enhance understanding of building models with Eclipse Deeplearning4j.
